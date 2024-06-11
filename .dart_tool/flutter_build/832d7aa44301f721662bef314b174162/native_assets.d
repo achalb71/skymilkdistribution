@@ -1,0 +1,1 @@
+ E:\\flutterProject\\milkman\\.dart_tool\\flutter_build\\832d7aa44301f721662bef314b174162\\native_assets.yaml: 
